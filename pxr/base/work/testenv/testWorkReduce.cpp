@@ -37,6 +37,7 @@
 #include <cstdio>
 #include <iostream>
 #include <vector>
+#include <cstring>
 
 using namespace std::placeholders;
 
