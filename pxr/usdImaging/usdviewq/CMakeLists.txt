@@ -92,11 +92,6 @@ install(DIRECTORY
     DESTINATION lib/python/pxr/Usdviewq
 )
 
-install(DIRECTORY
-    fonts
-    DESTINATION lib/python/pxr/Usdviewq
-)
-
 pxr_test_scripts(
     testenv/testUsdviewqSettings.py
     testenv/testUsdviewqRootDataModel.py
